@@ -1,0 +1,2 @@
+mongoimport --uri "mongodb+srv://Tushar4781:6674781rias@ekart-node.h6mzy.mongodb.net/ekart?retryWrites=true&w=majority" --drop --collection users --file data/export_ekart_users.json
+mongoimport --uri "mongodb+srv://Tushar4781:6674781rias@ekart-node.h6mzy.mongodb.net/ekart?retryWrites=true&w=majority" --drop --collection products --file data/export_ekart_products.json

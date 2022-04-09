@@ -1,0 +1,665 @@
+{"_id":{"$oid":"6005913ffaa2bffe60466951"},"name":"OnePlus 6","category":"Phones","quantity":1,"cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/63690/pexels-photo-63690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=126"}
+{"_id":{"$oid":"6005913ffaa2bffe60466952"},"name":"Toothbrush","category":"Health","quantity":1,"cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3588229/pexels-photo-3588229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"}
+{"_id":{"$oid":"6005913ffaa2bffe60466953"},"name":"Toothpaste","category":"Health","quantity":1,"cost":100.0,"rating":4.0,"image":"https://images.pexels.com/photos/4465125/pexels-photo-4465125.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"}
+{"_id":{"$oid":"6005913ffaa2bffe60466954"},"name":"Football","category":"Sports","quantity":1,"cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3074920/pexels-photo-3074920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"}
+{"_id":{"$oid":"6005913ffaa2bffe60466955"},"name":"Basketball","category":"Sports","quantity":1,"cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/3558072/pexels-photo-3558072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"}
+{"_id":{"$oid":"6005913ffaa2bffe60466956"},"name":"IPhone XR","category":"Phones","quantity":1,"cost":100.0,"rating":5.0,"image":"https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"}
+{
+"_id":{"$oid":"6005913ffaa2bffe60466957"}
+,"name" : "Oranges",
+"category" : "Fruits",
+"quantity" : 2,
+"cost" : 60.00,
+"rating" : 4.5,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlc6ikUd-bYYtgtEA0JRI90RHzHdKKJaWWiA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466958"}
+,"name" : "Oranges",
+"category" : "Fruits",
+"quantity" : 4,
+"cost" : 119.00, 
+"rating" : 4.5,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlc6ikUd-bYYtgtEA0JRI90RHzHdKKJaWWiA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466959"}
+,"name" : "Oranges",
+"category" : "Fruits",
+"quantity" : 8,
+"cost" : 220.00 ,
+"rating" : 4.5,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlc6ikUd-bYYtgtEA0JRI90RHzHdKKJaWWiA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466960"}
+,"name" : "Banana Robusta",
+"category" : "Fruits",
+"quantity" : 0.5,
+"cost" : 17.00 ,
+"rating" : 5.0,
+"image":"https://www.bigbasket.com/media/uploads/p/l/10000025-2_3-fresho-banana-robusta.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466961"}
+,"name" : "Banana Robusta",
+"category" : "Fruits",
+"quantity" : 0.5,
+"cost" : 17.00 ,
+"rating" : 5.0,
+"image":"https://www.bigbasket.com/media/uploads/p/l/10000025-2_3-fresho-banana-robusta.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466962"}
+,"name" : "Banana Robusta",
+"category" : "Fruits",
+"quantity" : 0.5,
+"cost" : 17.00 ,
+"rating" : 5.0,
+"image":"https://www.bigbasket.com/media/uploads/p/l/10000025-2_3-fresho-banana-robusta.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466963"}
+,"name" : "Pilsbury chakki fresh atta",
+"category" :"grocery and essentials",
+"quantity" : 0.5,
+"cost" : 30.00 ,
+"rating" : 4.5,
+"image":"https://images-na.ssl-images-amazon.com/images/I/71y2SA1BuKL._SL1500_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466964"}
+,"name" : "Pilsbury chakki fresh atta",
+"category" :"grocery and essentials",
+"quantity" : 1,
+"cost" : 57.00 ,
+"rating" : 4.5,
+"image":"https://images-na.ssl-images-amazon.com/images/I/71y2SA1BuKL._SL1500_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466965"}
+,"name" : "Pilsbury chakki fresh atta",
+"category" :"grocery and essentials",
+"quantity" : 2 ,
+"cost" : 110.00 ,
+"rating" : 4.5,
+"image":"https://images-na.ssl-images-amazon.com/images/I/71y2SA1BuKL._SL1500_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466966"}
+,"name" : "Toor Dal",
+"category" : "grocery and essentials",
+"quantity" : 0.5 ,
+"cost" : 70.00 ,
+"rating" : 3.8,
+"image":"https://www.bigbasket.com/media/uploads/p/l/10000425-5_5-bb-royal-toor-dalarhar-dal-desi.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466967"}
+,"name" : "Toor Dal",
+"category" : "grocery and essentials",
+"quantity" : 2 ,
+"cost" : 1170.00 , 
+"rating" : 3.8,
+"image":"https://www.bigbasket.com/media/uploads/p/l/10000425-5_5-bb-royal-toor-dalarhar-dal-desi.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466968"}
+,"name" : "Origo fresh brown raw peanut",
+"category" : "grocery and essentials",
+"quantity" : 0.25 ,
+"cost" : 55.00 , 
+"rating" : 5,
+"image":"https://rukminim1.flixcart.com/image/312/312/kd69z0w0/pulses/w/f/g/500-raw-peanutnut-raw-peanut-namaste-india-original-imafu4tmmw5pnp7h.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466969"}
+,"name" : "Origo fresh brown raw peanut",
+"category" : "grocery and essentials",
+"quantity" : 0.5 ,
+"cost" : 90.00 , 
+"rating" : 5,
+"image":"https://rukminim1.flixcart.com/image/312/312/kd69z0w0/pulses/w/f/g/500-raw-peanutnut-raw-peanut-namaste-india-original-imafu4tmmw5pnp7h.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466970"}
+,"name" : "Origo fresh brown raw peanut",
+"category" : "grocery and essentials",
+"quantity" : 1 ,
+"cost" : 176.00 , 
+"rating" : 5,
+"image":"https://rukminim1.flixcart.com/image/312/312/kd69z0w0/pulses/w/f/g/500-raw-peanutnut-raw-peanut-namaste-india-original-imafu4tmmw5pnp7h.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466971"}
+,"name" : "Madhur Sugar",
+"category" : "grocery and essentials",
+"quantity" : 1 ,
+"cost" : 60.00 , 
+"rating" : 4.2,
+"image":"https://5.imimg.com/data5/PN/BC/HH/ANDROID-4426796/prod-20191103-2227161320366589045464642-jpg-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466972"}
+,"name" : "Madhur Sugar",
+"category" : "grocery and essentials",
+"quantity" : 3 ,
+"cost" : 170.00,
+"rating" : 4.2,
+"image":"https://5.imimg.com/data5/PN/BC/HH/ANDROID-4426796/prod-20191103-2227161320366589045464642-jpg-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466973"}
+,"name" : "Madhur Sugar",
+"category" : "grocery and essentials",
+"quantity" : 5 ,
+"cost" : 216.00,
+"rating" : 4.2,
+"image":"https://5.imimg.com/data5/PN/BC/HH/ANDROID-4426796/prod-20191103-2227161320366589045464642-jpg-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466974"}
+,"name" : "Oreo Biscuits",
+"category" : "snacks and beverages",
+"quantity" : 46.3 ,
+"cost" : 10.00   ,
+"rating" : 5.0,
+"image":"https://images-na.ssl-images-amazon.com/images/I/71eBV9cNiEL._SX679_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466975"}
+,"name" : "Britania premium suji rusk",
+"category" : "snacks and beverages",
+"quantity" : 273,
+"cost" : 10.00   ,
+"rating" : 4.5,
+"image":"https://images-na.ssl-images-amazon.com/images/I/718DcmQD-6L._SX522_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466976"}
+,"name" : "Lays",
+"category" : "Snacks and beverages",
+"quantity" : 20,
+"cost" : 10.00 ,
+"rating" : 5.0,
+"image":"https://images-na.ssl-images-amazon.com/images/I/710dKk4a0cL._SX522_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466977"}
+,"name" : "Lays",
+"category" : "Snacks and beverages",
+"quantity" : 40,
+"cost" : 20.00   ,
+"rating" : 5.0,
+"image":"https://images-na.ssl-images-amazon.com/images/I/710dKk4a0cL._SX522_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466978"}
+,"name" : "Natural Anti-bacterial Hand Wash",
+"category" : "Personal care",
+"quantity" : 175   ,
+"cost" : 48.00   ,
+"rating" : 4.8,
+"image":"https://images-static.nykaa.com/media/catalog/product/d/d/ddc7ece8906092495743_1.jpg?tr=w-500,pr-true"
+}
+
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466979"}
+,"name" : "Natural Anti-bacterial Hand Wash",
+"category" : "Personal care",
+"quantity" : 500   ,
+"cost" : 130.00   ,
+"rating" : 4.8,
+"image":"https://images-static.nykaa.com/media/catalog/product/d/d/ddc7ece8906092495743_1.jpg?tr=w-500,pr-true"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466980"}
+,"name" : "Santoor sandal & turmeric soap",
+"category" : "Personal care",
+"quantity" : 100   ,
+"cost" : 25.9,
+"rating" : 3.4,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRulVBA1TfUJMHL-2yywcc4f7I08cFwfZm70Q&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466981"}
+,"name" : "KVG Whisk beater steel coil",
+"category" : "Home and Kitchen",
+"cost" : 75.00   ,
+"rating" : 4.4,
+"image":"https://i.ytimg.com/vi/ILydB5cmfgg/hqdefault.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466982"}
+,"name" : "MASTER COOK Polypropylene Fridge Container",
+"category" : "Home and Kitchen",
+"cost" : 95.00   ,
+"rating" : 3.6,
+"image":"https://rukminim1.flixcart.com/image/416/416/k62i5jk0/container/7/u/g/pp-202-container-set-of-2-pcs-multiciolor-mastercook-original-imafzhbzxmzyhq5f.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466983"}
+,"name" : "MASTER COOL Polka 1000  , bottle",
+"category" : "Home and Kitchen",
+"cost" : 199.00   ,
+"rating" : 5.0,
+"image":"https://5.imimg.com/data5/SELLER/Default/2021/3/DK/QR/AI/18868783/ye2a2142-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466984"}
+,"name" :"KOOK Rapid Peeler",
+"category" : "Home and Kitchen",
+"cost" : 76.00   ,
+"rating" : 4.8,
+"image":"https://goodstrolley.in/wp-content/uploads/2020/05/61cvAJicCdL._SL1200_-450x450.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466985"}
+,"name" : "Oneplus 9 Pro 5G",
+"category" : "mobiles",
+"cost" : 69900.00   ,
+"rating" : 5.0,
+"image":"https://images-na.ssl-images-amazon.com/images/I/71E%2BAgYDKtL._SX679_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466986"}
+,"name" : "Samsung galaxy A32",
+"category" : "mobiles",
+"cost" : 21299.00   ,
+"rating" : 4.6,
+"image":"https://images.samsung.com/is/image/samsung/p6pim/my/feature/116625391/my-feature---396422171?$FB_TYPE_A_MO_JPG$"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466987"}
+,"name" : "APPLE iPhone 12 Pro Max",
+"category" : "mobiles",
+"cost" : 135900.00   ,
+"rating" : 4.9,
+"image":"https://images.samsung.com/is/image/samsung/p6pim/my/feature/116625391/my-feature---396422171?$FB_TYPE_A_MO_JPG$"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466988"}
+,"name" : "REDMI 9 Prime",
+"category" : "mobiles",
+"cost" : 9999.00   ,
+"rating" : 3.6,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVdmz4MpY6ViIwvbr6mBkQ5x16fSvqSvqtQ&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466989"}
+,"name" : "MOTOROLA,40 Fusion",
+"category" : "mobiles",
+"cost" : 14499.00   ,
+"rating" : 3.8,
+"image":"https://www.91-img.com/pictures/143933-v2-moto-g40-fusion-mobile-phone-large-1.jpg?tr=q-60"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466990"}
+,"name" : "PUMA Zold Runner",
+"category" : "Sports Shoes",
+"cost" : 1299.00   ,
+"rating" : 4.8,
+"image":"https://rukminim1.flixcart.com/image/714/857/kfzq8i80-0/shoe/u/h/x/380815-9-puma-black-silver-original-imafwbwttkyxq5dh.jpeg?q=50"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466991"}
+,"name" : "NIKE Revolution",
+"category" : "Sports Shoes",
+"cost" : 1999.00   ,
+"rating" : 5.0,
+"image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/41da7925-5000-49fa-9489-c5e7fbe995a9/revolution-5-older-running-shoe-mhfgMP.png"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466992"}
+,"name" : "ADIDAS Unifactor",
+"category" : "Sports Shoes",
+"cost" : 1542.00   ,
+"rating" : 4.2,
+"image":"https://rukminim1.flixcart.com/image/714/857/kixgtjk0-0/shoe/j/q/e/ew2424-8-adidas-gresix-leggld-original-imafyhyzcgbg9gmx.jpeg?q=50"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466993"}
+,"name" : "Aurelia Kurta",
+"category" : "women clothing",
+"cost" : 479.00   ,
+"rating" : 3.4,
+"image":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-824,/pub/media/catalog/product/1/9/19aua10801-500633_1.jpg?rnd=20200526195200"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466994"}
+,"name" : "Vero Moda Casual Top",
+"category" : "women clothing",
+"cost" : 900.00   ,
+"rating" : 4.8,
+"image":"https://rukminim1.flixcart.com/image/714/857/jv2p6kw0/top/q/u/n/s-205249701-vero-moda-original-imafgfzjyza6xgqe.jpeg?q=50"
+
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466995"}
+,"name" :"Van Heusen Shirt",
+"category" : "men clothing",
+"cost" : 1999.00   ,
+"rating" : 5.0,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXDdLwnj_bBtGDx1i53Fn0vKNOsYQSuBRkA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466996"}
+,"name" : "Flying Machine Tee",
+"category" : "men clothing",
+"cost" : 780.00   ,
+"rating" : 4.4,
+"image":"https://cdn15.nnnow.com/web-images/medium/styles/837NPE5245J/1554198256567/1.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466997"}
+,"name" : "Titan Watch",
+"category" : "Watches",
+"cost" : 1995.00   ,
+"rating" :4.8,
+"image":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-824,/pub/media/catalog/product/t/i/titan-8905151358494_1.jpg?rnd=20200526195200"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466998"}
+,"name" : "Fastrack Watch",
+"category" : "Watches",
+"cost" : 2279,
+"rating" : 5.0,
+"image":"https://staticimg.titan.co.in/Fastrack/Catalog/38042PP01_2.jpg?pView=pdp"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60466999"}
+,"name" : "United Colors of Benetton Sunglasses",
+"category" : "Accessories",
+"cost" : 1299,
+"rating" : 4.2,
+"image":"https://n4.sdlcdn.com/imgs/a/m/m/United-Colors-Of-Benetton-Sunglass-SDL917645813-1-cff62.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467000"}
+,"name" : "Colorbar Primer",
+"category" : "Beauty and grooming",
+"cost" : 424.00   ,
+"rating" : 5.0,
+"image":"https://images-static.nykaa.com/media/catalog/product/8/9/8904052415121-1.png"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467001"}
+,"name" : "FOGG Master Intense",
+"category" : "Beauty and grooming",
+"cost" : 500.00   ,
+"rating" : 4.1,
+"image":"https://m.media-amazon.com/images/I/31Get6oyw1L.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467002"}
+,"name" : "Loreal Paris Shampoo",
+"category" : "Beauty andgrooming",
+"cost" : 212.00   ,
+"rating" : 4.4,
+"image": "https://m.media-amazon.com/images/I/51EWHJdZzyL._AC_SS450_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467003"}
+,"name" : "Mi TV A4",
+"category" : "Televisions",
+"cost" : 24999.00   ,
+"rating" : 4.2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmnd6D-A6z05gi7CcODiNlRXvDY1sDw-Wrg&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467004"}
+,"name" : "Samsung Smart",
+"category" : "Televisions",
+"cost" : 17499.00   ,
+"rating" : 4.3,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6CoJfDTRT0TFjZa2LRriuGpPs4TqZKdoQA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467005"}
+,"name" : "Senator Plus VX",
+"category" : "Washing Machines",
+"cost" : 34790.00   ,
+"rating" : 4.4,
+"image":"https://m.media-amazon.com/images/I/81DB9tk3vaL._AC_SS450_.jpg"
+}
+
+{    
+"_id":{"$oid":"6005913ffaa2bffe60467006"}
+,"name" : "Whirlpool Turbo",
+"category" : "Washing Machines",
+"cost" : 9990.00   ,
+"rating" : 4.4,
+"image":"https://images-na.ssl-images-amazon.com/images/I/711NGTqZ6TL._SL1500_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467007"}
+,"name" :  "Samsung 1.5 ton Split AC",
+"category" : "Air Conditioners",
+"cost" : 28999.00   ,
+"rating" : 4.2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA6CoJfDTRT0TFjZa2LRriuGpPs4TqZKdoQA&usqp=CAU"
+}        
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467008"}
+,"name" : "Panasonic 1 Ton Split AC",
+"category" : "Air Conditioners",
+"cost" : 34990,
+"rating" : 4.3,
+"image": "https://static.toiimg.com/photo/54050960/Panasonic-CSCU-S12PKY-1-Ton-Inverter-Split-AC.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467009"}
+,"name" : "Whitrlpool double door",
+"category" : "Refridgerators",
+"cost" : 25990.00   ,
+"rating" : 4.3,
+"image":"https://images-na.ssl-images-amazon.com/images/I/711NGTqZ6TL._SL1500_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467010"}
+,"name" : "Godrej Frost free",
+"category" : "Refridgerators",
+"cost" : 18990.00   ,
+"rating" : 4.2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-L8x3PxJ9sO462uopI2nj-odNtfYncimEQA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467011"}
+,"name" : "Automatic Voltage Stabilizer",
+"category" : "Home Appliances",
+"cost" : 1849,
+"rating" : 4.2,
+"image":"https://5.imimg.com/data5/QS/BB/MY-1749426/automatic-voltage-stabilizer-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467012"}
+,"name" : "KENT Water Purifier",
+"category" : "Home Appliances",
+"cost" : 16200,
+"rating" : 4.4,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2wsHwdi_C4uu6wR4rwPyDdk_xTNhUVpVi4w&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467013"}
+,"name" : "Zigzag Sewing Machine",
+"category" : "Home Appliances",
+"cost" : 7599,
+"rating" : 4.1,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaPy-0qgRGbGQAS_G8DlPU4Yk2hIYWxwAeA&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467014"}
+,"name" : "Onions",
+"category" : "Vegetables",
+"cost" : 17.00   ,
+"quantity" : 0.5 ,
+"rating" : 4.6,
+"image":"https://i.cdn.newsbytesapp.com/images/l205_37461600432702.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467015"}
+,"name" : "Onions",
+"category" : "Vegetables",
+"cost" : 30.00   ,
+"quantity" : 1 ,
+"rating" : 4.6,
+"image":"https://i.cdn.newsbytesapp.com/images/l205_37461600432702.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467016"}
+,"name" : "Potatoes",
+"category" : "Vegetables",
+"cost" : 12.00   ,
+"quantity" : 0.5 ,
+"rating" : 4.9,
+"image":"https://cdn.britannica.com/w:1100/89/170689-131-D20F8F0A/Potatoes.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467017"}
+,"name" : "Potatoes",
+"category" : "Vegetables",
+"cost" : 22.00  ,
+"quantity" : 1 ,
+"rating" : 4.9,
+"image":"https://cdn.britannica.com/w:1100/89/170689-131-D20F8F0A/Potatoes.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467018"}
+,"name" : "Rin Detergent Bar",
+"category" : "Household Care",
+"cost" : 64.00  ,
+"rating" : 4.8,
+"image":"https://res.sastasundar.com/incom/images/product/Rin-Detergent-Bar-1559908570-10061762-1.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467019"}
+,"name" : "Godrej Aer Assorted Blocks",
+"category" : "Household Care",
+"cost" : 242,
+"rating" : 4.2,
+"image":"https://rukminim1.flixcart.com/image/416/416/k5fn3ww0/air-freshener/3/f/4/90-pocket-bathroom-air-fragrance-pack-of-9-gel-godrej-aer-original-imafz45tfahtvsf8.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467020"}
+,"name" : "HINDALCO Freshwrapp Aluminium Foil",
+"category" : "Household Care",
+"cost" : 87.00  ,
+"rating" : 4.8,
+"image":"https://images-na.ssl-images-amazon.com/images/I/51gpRzDzh-L.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467021"}
+,"name" : "Energizer Batteries",
+"category" : "Household Care",
+"cost" : 150,
+"rating" : 4.3,
+"image":"https://5.imimg.com/data5/II/KD/XG/SELLER-6291427/energizer-aaa-alkaline-batteries-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467022"}
+,"name" :"Whiskas Jelly Cat Treat",
+"category" : "Pet Food",
+"cost" : 35,
+"rating" :5.0,
+"image":"https://5.imimg.com/data5/PA/SE/MY-8818886/whiskas-jelly-pouch-500x500.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467023"}
+,"name" : "Cherry Blossom Shoe Polish",
+"category" : "Shoe Care",
+"cost" : 59,
+"rating" : 4.2,
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkAlv_S3X_pPa5oa0nLyNhnkDrth4J7cHXig&usqp=CAU"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467024"}
+,"name" : "Chavi Bedsheet",
+"category" : "Bedsheets",
+"cost" : 299.00  ,
+"rating" : 3.7,
+"image":"https://images-na.ssl-images-amazon.com/images/I/51Lz78SV5RL._SX425_.jpg"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467025"}
+,"name" : "Crimson Clock",
+"category" : "Home Decor",
+"cost" : 199.00  ,
+"rating" : 4.0,
+"image":"https://rukminim1.flixcart.com/image/416/416/kjbr8280-0/wall-clock/3/k/g/round-rubberwood-rwwc1010rw-analog-crimson-knot-original-imafyxehuc7s4ezc.jpeg?q=70"
+}
+
+{
+"_id":{"$oid":"6005913ffaa2bffe60467026"}
+,"name" : "WORA Key Holder",
+"category" : "Home Decor",
+"cost" : 219.00  ,
+"rating" : 4.0,
+"image":"https://rukminim1.flixcart.com/image/416/416/k0wqwsw0/rack-shelf/6/g/d/ws18-wora-original-imafkhhznxg9apua.jpeg?q=70"
+}
