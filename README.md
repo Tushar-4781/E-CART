@@ -7,4 +7,4 @@ Note - The Code does consist the part of AI but we have not deployed that part b
 
 DEMO - https://youtu.be/MkyDGJus0sQ
 
-Deployed URL - https://sastabaazar.netlify.app/
+Deployed URL - https://apnabaazar.netlify.app/
